@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-13 06:50:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Bogo 3.7\n"
+"Language: en_US\n"
+"Project-Id-Version: WordPress 6.5.2\n"
+
+msgctxt "blogname"
+msgid "blogname"
+msgstr "SAKURA ZUSHI"
+
+msgctxt "blogdescription"
+msgid "blogdescription"
+msgstr "We serve Edomae sushi using fresh ingredients. The finest sushi made by a craftsman who knows the flavors of fish."
+
+msgctxt "category"
+msgid "category:7"
+msgstr "未分類"
+
+msgctxt "category"
+msgid "category:1"
+msgstr "未分類"
+
+msgctxt "nav_menu"
+msgid "nav_menu:9"
+msgstr "ヘッダー"
+
+msgctxt "nav_menu"
+msgid "nav_menu:10"
+msgstr "ヘッダーナビ"
+
+msgctxt "nav_menu"
+msgid "nav_menu:14"
+msgstr "英語メニュー"
+
+msgctxt "wp_theme"
+msgid "wp_theme:12"
+msgstr "lightning-child"
